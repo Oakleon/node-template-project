@@ -12,10 +12,6 @@
     "type": "git",
     "url": "https://GITBASEURLHERE"
   },
-  "keywords": [
-    "node",
-    "oakleon"
-  ],
   "author": "AUTHOREMAILHERE",
   "license": "LICENSEHERE",
   "bugs": {
